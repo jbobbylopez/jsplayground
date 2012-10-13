@@ -1,6 +1,11 @@
+/* main */
+    var dbg = 0; 
 
     window.onload = init;
-    var dbg = 0; 
+
+/* subs */
+
+
     function debug (o)
     {
         if ( dbg == 1 )
